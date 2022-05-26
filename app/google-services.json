@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771495759661",
+    "firebase_url": "https://new-smart-pillow-default-rtdb.firebaseio.com",
+    "project_id": "new-smart-pillow",
+    "storage_bucket": "new-smart-pillow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771495759661:android:7156658ba35d35d2f04da4",
+        "android_client_info": {
+          "package_name": "com.example.new_smart_pillow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771495759661-67m3svurjfdd96ia03jenv5uq2bh3p39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWr4GyIeAkDseHUHZFFCN7nWzC6pVB3kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771495759661-67m3svurjfdd96ia03jenv5uq2bh3p39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

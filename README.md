@@ -7,3 +7,7 @@
       - Off
       - Discoverable
       - View Paired Devices
+
+### Technologies
+1. Android Studio
+2. Firebase
